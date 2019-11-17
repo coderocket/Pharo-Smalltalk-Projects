@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "Projects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aScalableImageMorph",
+		"model"
+	],
+	"name" : "ProjectMorph",
+	"type" : "normal"
+}

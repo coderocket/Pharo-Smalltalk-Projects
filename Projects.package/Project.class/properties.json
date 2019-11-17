@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Projects",
+	"classinstvars" : [
+		"transcript"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"CurrentProject"
+	],
+	"instvars" : [
+		"parentProject",
+		"world",
+		"thumbnail"
+	],
+	"name" : "Project",
+	"type" : "normal"
+}
